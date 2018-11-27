@@ -1,0 +1,19 @@
+{ Buffer:
+   { [Function: Buffer]
+     poolSize: 8192,
+     from: [Function: from],
+     alloc: [Function: alloc],
+     allocUnsafe: [Function: allocUnsafe],
+     allocUnsafeSlow: [Function: allocUnsafeSlow],
+     isBuffer: [Function: isBuffer],
+     compare: [Function: compare],
+     isEncoding: [Function: isEncoding],
+     concat: [Function: concat],
+     byteLength: [Function: byteLength],
+     [Symbol(kIsEncodingSymbol)]: [Function: isEncoding] },
+  SlowBuffer: [Function: SlowBuffer],
+  transcode: [Function: transcode],
+  INSPECT_MAX_BYTES: 50,
+  kMaxLength: 2147483647,
+  kStringMaxLength: 1073741799,
+  constants: { MAX_LENGTH: 2147483647, MAX_STRING_LENGTH: 1073741799 } }
